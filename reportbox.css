@@ -1,0 +1,14 @@
+/* reportbox.css */
+
+.box {
+  width: 750px;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 2px;
+  text-align: center;
+  color: #27cc9d;
+  background: linear-gradient(to bottom right, #022912, #000000); /* Linear gradient background */
+  font-family: monospace; /* Set font family to monospace */
+  border: 1px solid #27cc9d; /* Define border size and color */
+}
+
